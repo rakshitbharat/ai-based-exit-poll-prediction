@@ -2,7 +2,7 @@
 
 Welcome to the **AI-Powered Exit Poll Prediction System** project! This project aims to utilize advanced machine learning and data analytics techniques to predict election outcomes based on exit poll data. Our goal is to provide accurate, real-time forecasts that can be used by media organizations, political analysts, and the general public.
 
-<img width="1392" alt="image" src="https://github.com/rakshitbharat/ai-based-exit-poll-prediction/assets/17176729/648df0aa-3057-4353-af6b-fed079d8891c">
+<img width="727" alt="image" src="https://github.com/rakshitbharat/ai-based-exit-poll-prediction/assets/17176729/40d95ab1-12dc-49b3-93e9-38c7c796d887">
 
 
 ## Key Features
