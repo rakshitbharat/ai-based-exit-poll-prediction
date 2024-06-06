@@ -4,7 +4,6 @@ Welcome to the **AI-Powered Exit Poll Prediction System** project! This project 
 
 <img width="727" alt="image" src="https://github.com/rakshitbharat/ai-based-exit-poll-prediction/assets/17176729/40d95ab1-12dc-49b3-93e9-38c7c796d887">
 
-
 ## Key Features
 
 - **Data Collection and Preprocessing:** Automated collection and preprocessing of exit poll data from various sources.
