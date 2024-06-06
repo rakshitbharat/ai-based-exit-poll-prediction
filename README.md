@@ -15,3 +15,7 @@ Since this is the initial commit, we have not yet developed the system. Stay tun
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/yourusername/ai-exit-poll-prediction.git
+
+   
+<img width="1354" alt="image" src="https://github.com/rakshitbharat/ai-based-exit-poll-prediction/assets/17176729/b5109eb8-0ad0-4f08-a155-c97e57497eb3">
+
